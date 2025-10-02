@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
 | [2478-longest-nice-subarray](https://github.com/bw-99/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bw-99/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
