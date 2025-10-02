@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [2478-longest-nice-subarray](https://github.com/bw-99/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
 |  |
@@ -39,8 +40,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bw-99/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bw-99/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
