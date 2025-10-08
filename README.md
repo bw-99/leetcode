@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
