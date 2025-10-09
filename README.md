@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/bw-99/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bw-99/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/bw-99/leetcode/tree/master/0130-surrounded-regions) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/bw-99/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bw-99/leetcode/tree/master/0055-jump-game) |
 ## String
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bw-99/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/bw-99/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bw-99/leetcode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
