@@ -17,7 +17,7 @@ class Solution:
             for drow, dcol in move_lst:
                 nrow, ncol = row+drow, col+dcol
 
-                if (0<=nrow<len(image)) and (0<=ncol<len(image[0])) and (image[nrow][ncol] == start_color):
+                if (0<=nrow<len(image)) and (0<=ncol<len(image[0])) and not visited[nrow][ncol] and (image[nrow][ncol] == start_color):
                     dfs(nrow, ncol)
         dfs(sr, sc)
         return image
