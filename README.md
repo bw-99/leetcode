@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bw-99/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/bw-99/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/bw-99/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bw-99/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bw-99/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/bw-99/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bw-99/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/bw-99/leetcode/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
