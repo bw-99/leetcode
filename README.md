@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/bw-99/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/bw-99/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/bw-99/leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/bw-99/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
 ## Union Find
@@ -101,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/bw-99/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/bw-99/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
