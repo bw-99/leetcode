@@ -11,21 +11,17 @@ class Solution:
         if not root:
             return False
 
-        def dfs(root, curSum):
-            nonlocal targetSum, is_exist
+        queue = [(root, root.val)]
+        while queue:
+            curRoot, curSum = queue.pop(0)
 
-            curSum += root.val
-
-            if (curSum == targetSum) and not ((root.left) or (root.right)):
+            if (not (curRoot.left or curRoot.right)) and curSum == targetSum:
                 is_exist = True
-                return
+                break
 
-            if root.left:
-                dfs(root.left, curSum)
-            
-            if root.right:
-                dfs(root.right, curSum)
-        
-        dfs(root, 0)
+            if curRoot.left:
+                queue.append((curRoot.left, curSum+curRoot.left.val))
+            if curRoot.right:
+                queue.append((curRoot.right, curSum+curRoot.right.val))
 
         return is_exist
