@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/bw-99/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/bw-99/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/bw-99/leetcode/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/bw-99/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Sliding Window
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bw-99/leetcode/tree/master/0002-add-two-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/bw-99/leetcode/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
