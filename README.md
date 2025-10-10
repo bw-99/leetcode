@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/bw-99/leetcode/tree/master/0401-binary-watch) |
 | [2478-longest-nice-subarray](https://github.com/bw-99/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Sliding Window
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/bw-99/leetcode/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
 | ------- |
