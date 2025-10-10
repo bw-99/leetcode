@@ -9,7 +9,6 @@ class Solution:
                 tmp_answer = q[0]
                 for idx in range(1, len(q)):
                     tmp_answer = tmp_answer ^ q[idx]
-                print(q, tmp_answer)
                 answer += tmp_answer
             
             for idx in range(pos, len(self.nums)):
