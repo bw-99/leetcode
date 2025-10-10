@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bw-99/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/bw-99/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/bw-99/leetcode/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bw-99/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/bw-99/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bw-99/leetcode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -99,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/bw-99/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/bw-99/leetcode/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
