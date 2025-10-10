@@ -1,21 +1,22 @@
 class Solution:
-    def readBinaryWatch(self, turnedOn: int) -> list[str]:
-        result = []
+    answer = []
 
-        def backtrack(pos, leds_on, hour, minute):
-            if not ((0<= hour <= 11) and (0<=minute<=59)):
-                return
-            
-            if leds_on == turnedOn:
-                result.append(f"{hour}:{'0'*(2-len(str(minute)))}{minute}")
-                return
-            
-            for i in range(pos, 10):
-                if i < 4:
-                    backtrack(i+1, leds_on+1, hour + 2**i, minute)
-                else:
-                    k = i - 4
-                    backtrack(i+1, leds_on+1, hour, minute + 2**k)
+    def dfs(self, hour, minute, level, turnedOn, pos):
+        if not ((0<=hour<=11) and (0<=minute<=59)):
+            return
+        
+        if level == turnedOn:
+            self.answer.append(f"{hour}:{minute:02d}")
+            return
 
-        backtrack(0, 0, 0, 0)
-        return result
+        for npos in range(pos, 10):
+            if npos < 4:
+                self.dfs(hour + 2**npos, minute, level+1, turnedOn, npos+1)
+            else:
+                self.dfs(hour, minute + 2**(npos-4), level+1, turnedOn, npos+1)
+
+    def readBinaryWatch(self, turnedOn: int) -> List[str]:
+        self.dfs(0, 0, 0, turnedOn, 0)
+        answer = self.answer[:]
+        self.answer.clear()
+        return answer
