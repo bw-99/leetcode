@@ -2,14 +2,14 @@ class Solution:
     path = []
     path_final = set()
 
-    def dfs(self, visited_dict: dict[int, bool], cur_item: int):
+    def dfs(self, cur_item: int):
         self.path.append(cur_item)
 
         if (pre_course_list := self.prerequisites_dict.get(cur_item, None)) is None:
             return True
          
         for pre_course in pre_course_list:
-            is_visited = visited_dict.get(pre_course, False)
+            is_visited = self.visited.get(pre_course, False)
             
             if is_visited:
                 return False
@@ -17,9 +17,9 @@ class Solution:
             if pre_course in self.path_final:
                 continue
             
-            visited_dict[pre_course] = True
-            is_possible = self.dfs(visited_dict, pre_course)
-            visited_dict[pre_course] = False
+            self.visited[pre_course] = True
+            is_possible = self.dfs(pre_course)
+            self.visited[pre_course] = False
 
             if not is_possible:
                 return False
@@ -38,7 +38,7 @@ class Solution:
         
         self.prerequisites_dict = prerequisites_dict
         
-        visited = {
+        self.visited = {
             i: False for i in range(numCourses)
         }
 
@@ -47,9 +47,9 @@ class Solution:
         answer = True
         for course in list(prerequisites_dict.keys()):       
 
-            visited[course] = True
-            is_possible = self.dfs(visited, course)
-            visited[course] = False
+            self.visited[course] = True
+            is_possible = self.dfs(course)
+            self.visited[course] = False
 
             answer = answer and is_possible
 
@@ -58,5 +58,5 @@ class Solution:
             
             self.path_final = set(self.path)
             for course in self.path_final:
-                visited[course] = None
+                self.visited[course] = None
         return answer
