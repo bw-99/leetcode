@@ -2,7 +2,7 @@ class Solution:
     path = set()
 
     def dfs(self, visited_dict: dict[int, bool], cur_item: int):
-        self.path.add(cur_item)
+        self.path.append(cur_item)
 
         if (pre_course_list := self.prerequisites_dict.get(cur_item, None)) is None:
             return True
@@ -25,7 +25,7 @@ class Solution:
         return True
 
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        self.path = set()
+        self.path = []
 
         prerequisites_dict = {}
         for item in prerequisites:
@@ -54,6 +54,7 @@ class Solution:
             if not answer:
                 return False
             
+            self.path = list(set(self.path))
             for course in self.path:
                 visited[course] = None
         return answer
