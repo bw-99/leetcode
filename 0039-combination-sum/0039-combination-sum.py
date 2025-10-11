@@ -3,7 +3,7 @@ class Solution:
         
         answer = []
 
-        candidates = sorted(candidates, key=lambda x: -x)
+        # candidates = sorted(candidates, key=lambda x: -x)
         
         def dfs(level: int, residual: int, traces: list[int]):
             if level == len(candidates):
